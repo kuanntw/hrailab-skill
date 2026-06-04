@@ -1,0 +1,3 @@
+display_name: HRxAI Research Handoff
+short_description: Generate and validate AI-readable HRxAI research handoff packages.
+default_prompt: Use this skill to generate, validate, or repair an HRxAI research handoff package for a completed study. Preserve source paths, mark missing items as TODO, and create a completeness check with prioritized fixes.
